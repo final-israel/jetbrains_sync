@@ -1,0 +1,17 @@
+{
+  "versions": {
+    "PY": {
+      "version_numbers": ["2024.1"]
+    },
+    "CL": {
+      "version_numbers": ["2024.1"]
+    },
+    "RM": {
+      "version_numbers": ["2024.1"]
+    },
+    "RR": {
+      "version_numbers": ["2024.1"]
+    }
+  }
+}
+
